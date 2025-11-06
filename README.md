@@ -56,3 +56,4 @@ The app displays the top prediction along with confidence values for all classes
    │    └─ model.tflite (for on-device inference)
    └─ /backend (optional)
         └─ Flask API for model hosting
+<img width="1914" height="1033" alt="android_ml" src="https://github.com/user-attachments/assets/74f84e23-4b98-47c9-8ffb-aa200fa0ce2f" />
